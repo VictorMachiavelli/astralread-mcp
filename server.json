@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.astralread/astrology",
+  "title": "AstralRead",
+  "description": "Natal charts, transits, the sky of a day, Vedic chart and dasha. Read-only, no account.",
+  "version": "0.1.0",
+  "websiteUrl": "https://astralread.com/app",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://astralread.com/mcp"
+    }
+  ]
+}
