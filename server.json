@@ -3,12 +3,21 @@
   "name": "com.astralread/astrology",
   "title": "AstralRead",
   "description": "Natal charts, transits, the sky of a day, Vedic chart and dasha. Read-only, no account.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://astralread.com/app",
   "remotes": [
     {
       "type": "streamable-http",
       "url": "https://astralread.com/mcp"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://astralread.com/app-icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
     }
   ]
 }
