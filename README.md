@@ -1,5 +1,7 @@
 # AstralRead MCP server
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/victormachiavelli-astralread-mcp-1ptasp?v=f66290e65e41cf96c750345aea0a1afe)](https://m8ven.ai/mcp/victormachiavelli-astralread-mcp-1ptasp?s=readme)
+
 <img src="logo.png" width="96" align="right" alt="AstralRead">
 
 **Astrology calculations for AI assistants** — a public, read-only remote [Model Context Protocol](https://modelcontextprotocol.io) server by [AstralRead](https://astralread.com).
